@@ -17,10 +17,16 @@ El proyecto consiste en mantener una planta con cierto rango de humedad. Para el
 |    1     | Relé de 5 VDC             |              <img src='./assets/images/rele-de-5-vdc.jpg' width='150'>               |
 |    1     | Diodo                     |                  <img src='./assets/images/diodo.jpg' width='150'>                   |
 
+## Programación
+- [Arduino UNO](./arduino-sistema-de-riego.ino)
+
 ## Recursos utilizados
 
-### Uso y configuración del sensor de humedad LM393
+### Uso y configuración del sensor de humedad LM393 (Video)
 [![SERIE SENSORES Y MÓDULOS #4: SENSOR DE HUMEDAD DE SUELO HL-69 / YL-69](https://img.youtube.com/vi/ppvKm-5BG-0/0.jpg)](https://www.youtube.com/watch?v=ppvKm-5BG-0)
 
-### Uso y configuración del relé de 5 VDC
+### Uso y configuración del relé de 5 VDC (Video)
 [![Conectar 110V / 220V con Arduino](https://img.youtube.com/vi/Gif-vw9FtII/0.jpg)](https://www.youtube.com/watch?v=Gif-vw9FtII)
+
+### Esquema del Arduino UNO
+![Esquema del Arduino UNO](./assets/images/arduino-uno-esquema.png)
